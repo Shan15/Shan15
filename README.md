@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Shan15Dev/Shan15Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my own Browser and on my Website
+- 🌱 I’m currently learning ReactJS and C#
+- 🤔 I’m looking for help with ReactJS
 
-Here are some ideas to get you started:
+---
+### Used Programminglanguages / Codinglanguages:
+- Java (Spring, JavaFX)
+- C#
+- HTML/CSS
+- ReactJS
+---
+### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>📈 Most used languages</summary>
+  <br>
+  <img align="center" alt="kaiseryao's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan15dev&langs_count=8&theme=cobalt" />
+</details>
