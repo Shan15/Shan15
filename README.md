@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my own Browser and on my Website
-- 🌱 I’m currently learning ReactJS and C#
+- 🌱 I’m currently learning ReactJS, C#, Java and Kotlin
 - 🤔 I’m looking for help with ReactJS
 
 ---
 ### Used Programminglanguages / Codinglanguages:
 - Java (Spring, JavaFX)
+- Kotlin
 - C#
 - HTML/CSS
 - ReactJS
