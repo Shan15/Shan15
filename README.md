@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my own Browser and on my Website
-- 🌱 I’m currently learning ReactJS, C#, Java and Kotlin
-- 🤔 I’m looking for help with ReactJS
+- 🌱 I’m currently learning ReactJS, C#, Java and NextJS
 
 ---
 ### Used Programminglanguages / Codinglanguages:
@@ -11,6 +10,7 @@
 - C#
 - HTML/CSS
 - ReactJS
+- NextJS
 ---
 ### Stats
 
