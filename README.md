@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my own Browser and on my Website
-- 🌱 I’m currently learning ReactJS, C#, Java and NextJS
+I'm a first year apprentice in Computer Science.
+I'm a Full Stack Developer
 
 ---
 ### Used Programminglanguages / Codinglanguages:
@@ -11,6 +11,7 @@
 - HTML/CSS
 - ReactJS
 - NextJS
+- ASP.NET
 ---
 ### Stats
 
