@@ -12,6 +12,8 @@ I'm a fullstack developer
 - ReactJS
 - NextJS
 - ASP.NET
+- Vue.js
+- Typescript
 ---
 ### Stats
 
