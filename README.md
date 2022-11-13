@@ -24,5 +24,5 @@ I'm a fullstack developer
 <details>
   <summary>Github stats</summary>
   <br>
-  [![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shan15dev)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" alt="shan15dev's most used languages" src="https://github-readme-stats.vercel.app/api?username=shan15dev"/>
 </details>
