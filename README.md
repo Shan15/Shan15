@@ -24,5 +24,10 @@ I'm a fullstack developer
 <details>
   <summary>Github stats</summary>
   <br>
-  <img align="center" alt="shan15dev's most used languages" src="https://github-readme-stats.vercel.app/api?username=shan15dev"/>
+  <img align="center" alt="shan15dev's github stats" src="https://github-readme-stats.vercel.app/api?username=shan15dev"/>
+</details>
+<details>
+  <summary>Github stats</summary>
+  <br>
+  <img align="center" alt="shan15dev's coding time this week" src="https://github-readme-stats.vercel.app/api/wakatime?username=shan15dev"/>
 </details>
