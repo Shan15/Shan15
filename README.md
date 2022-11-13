@@ -12,7 +12,6 @@ I'm a fullstack developer
 - ReactJS
 - NextJS
 - ASP.NET
-- Vue.js
 - Typescript
 ---
 ### Stats
@@ -21,4 +20,9 @@ I'm a fullstack developer
   <summary>📈 Most used languages</summary>
   <br>
   <img align="center" alt="shan15dev's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan15dev&langs_count=8&theme=cobalt" />
+</details>
+<details>
+  <summary>Github stats</summary>
+  <br>
+  [![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shan15dev)](https://github.com/anuraghazra/github-readme-stats)
 </details>
