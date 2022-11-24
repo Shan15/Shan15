@@ -6,12 +6,11 @@ I'm a fullstack developer
 ---
 ### Used Programminglanguages / Codinglanguages:
 - Java (Spring, JavaFX)
-- Kotlin
 - C#
 - HTML/CSS
 - ReactJS
 - NextJS
-- ASP.NET
+- ASP.NET (learning)
 - Typescript
 ---
 ### Stats
@@ -25,9 +24,4 @@ I'm a fullstack developer
   <summary>Github stats</summary>
   <br>
   <img align="center" alt="shan15dev's github stats" src="https://github-readme-stats.vercel.app/api?username=shan15dev"/>
-</details>
-<details>
-  <summary>Github Coding time this week</summary>
-  <br>
-  <img align="center" alt="shan15dev's coding time this week" src="https://github-readme-stats.vercel.app/api/wakatime?username=shan15dev"/>
 </details>
