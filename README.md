@@ -15,13 +15,5 @@ I'm a fullstack developer
 ---
 ### Stats
 
-<details>
-  <summary>📈 Most used languages</summary>
-  <br>
   <img align="center" alt="shan15dev's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan15&langs_count=8&theme=cobalt" />
-</details>
-<details>
-  <summary>Github stats</summary>
-  <br>
   <img align="center" alt="shan15dev's github stats" src="https://github-readme-stats.vercel.app/api?username=shan15"/>
-</details>
