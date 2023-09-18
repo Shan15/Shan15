@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **VueJs & Golang**
 
-- 👯 I’m looking to collaborate on [HomeConomyv2](https://github.com/TheGreatShan/HomeConomyv2)
-
 - 💬 Ask me about **C# and React**
 
 - ⚡ Fun fact **I really hate Golang, but I still learn it**
