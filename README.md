@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegreatshan&label=Profile%20views&color=0e75b6&style=flat" alt="thegreatshan" /> </p>
 
-- 🔭 I’m currently working on [HomeConomyv2](https://github.com/TheGreatShan/HomeConomyv2)
+- 🔭 I’m currently working on [ZaraChat](https://github.com/TheGreatShan/ZaraChat.API)
 
 - 🌱 I’m currently learning **VueJs & Golang**
 
