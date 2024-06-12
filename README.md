@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [ZaraChat](https://github.com/TheGreatShan/ZaraChat.API)
 
-- 🌱 I’m currently learning **VueJs & Golang**
+- 🌱 I’m currently learning **F#**
 
 - 💬 Ask me about **C# and React**
-
-- ⚡ Fun fact **I really hate Golang, but I still learn it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
